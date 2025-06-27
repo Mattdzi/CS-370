@@ -18,4 +18,4 @@ How I approach any problem as a computer scientist is making sure that I underst
 
 ### What are my ethical responsibilities to the end user and the organization?
 
-My  ethical responsibility to the end users and the organization is thinking about how my work may impact society as a whole in addition to developing new technologies or resolving technical issues. To prevent any possible conflicts of interest, I need to make sure that I am are not in anybody in harm's way and that they respect their privacy.
+My ethical responsibility to the end users and the organization is thinking about how my work may impact society as a whole in addition to developing new technologies or resolving technical issues. To prevent any possible conflicts of interest, I need to make sure that I am are not in anybody in harm's way and that they respect their privacy.
